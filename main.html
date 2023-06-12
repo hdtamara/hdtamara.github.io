@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container">
+        <select name="language" id="language-select" onchange="onLanguageSelected(event)">
+            <option value="en">Inglés</option>
+            <option value="es">Español</option>
+        </select>
+        <select name="voice" id="voice-select" onchange="onVoiceSelected(event)">
+            <option value="">Voz predeterminada</option>
+        </select>
+        <div>
+            <label for="rate-input">Velocidad:</label>
+            <input onchange="onVelocitySelected(event)" type="range" id="rate-input" min="0.1" max="2" step="0.1" value="1">
+            <input id="display-velocity" type="number" disabled/>
+        </div>
+        <select onchange="onStateSelected(event)" name="state" id="state-select">
+            <option value="">Select a state</option>
+        </select>
+        <select onchange="onCitySelected(event)" name="city" id="city-select">
+            <option value="">Select a city</option>
+        </select>
+        <div>
+            <section id="text">
+            </section>
+        </div>
+        <div class="button-container">
+            <button onclick="onSubmit()" id="speak-button">Hablar</button>
+        </div>
+        <div class="button-container">
+            <a href="./game.html">
+                <button  id="speak-button">Jugar</button>
+            </a>
+        </div>
+    </div>
+    <script  src="text-to-speech.js"></script>
+    <script type="text/javascript" src="data.json"></script>
+</body>
+</html>
+

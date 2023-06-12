@@ -1,0 +1,494 @@
+﻿city;state
+Birmingham;Alabama
+Gadsden;Alabama
+Jasper;Alabama
+Mobile;Alabama
+Montgomery;Alabama
+Selma;Alabama
+Tuscaloosa;Alabama
+Flagstaff;Arizona
+Kingman;Arizona
+Mesa;Arizona
+Phoenix - Tempe;Arizona
+Tucson;Arizona
+Yuma;Arizona
+Benton;Arkansas
+Blytheville;Arkansas
+Fayetteville;Arkansas
+Little Rock;Arkansas
+Newport;Arkansas
+Pine Bluff;Arkansas
+Anaheim;California
+Arcadia;California
+Bakersfield;California
+Barstow;California
+Berkeley;California
+Claremont;California
+Eureka;California
+Glendale;California
+Hayward;California
+Irvine;California
+Lodi;California
+Marysville;California
+Merced;California
+Oakland;California
+Oceanside;California
+Oxnard;California
+Palm Springs;California
+Red Bluff;California
+Redding;California
+Roseville;California
+Salinas;California
+Stockton;California
+Ukiah;California
+Victorville;California
+Visalia;California
+Colorado Springs;Colorado
+Denver;Colorado
+Fort Collins;Colorado
+Glenwood Springs;Colorado
+Greeley;Colorado
+Sterling;Colorado
+Bridgeport;Connecticut
+Hartford;Connecticut
+New Britain;Connecticut
+Stamford;Connecticut
+Dover;Delaware
+Boca Raton;Florida
+Daytona Beach;Florida
+Fort Lauderdale;Florida
+Fort Myers;Florida
+Fort Pierce;Florida
+Fort Walton Beach;Florida
+Jacksonville;Florida
+Key West;Florida
+Lake City;Florida
+Lakeland;Florida
+Naples;Florida
+Tallahassee;Florida
+West Palm Beach;Florida
+Albany;Georgia
+Athens;Georgia
+Augusta;Georgia
+Columbus;Georgia
+Gainesville;Georgia
+La Grange;Georgia
+Macon;Georgia
+Marietta;Georgia
+Savannah;Georgia
+Valdosta;Georgia
+Coeur d’Alene;Idaho
+Idaho Falls;Idaho
+Nampa;Idaho
+Pocatello;Idaho
+Twin Falls;Idaho
+Bloomington;Illinois
+Carbondale;Illinois
+Champaign;Illinois
+Danville;Illinois
+Decatur;Illinois
+Peoria;Illinois
+Rockford;Illinois
+Springfield;Illinois
+Bedford;Indiana
+Elkhart;Indiana
+Evansville;Indiana
+Fort Wayne;Indiana
+Gary;Indiana
+Goshen;Indiana
+Greenfield;Indiana
+Lafayette;Indiana
+Marion;Indiana
+Muncie;Indiana
+Richmond;Indiana
+Terre Haute;Indiana
+Ames;Iowa
+Cedar Rapids;Iowa
+Davenport;Iowa
+Des Moines;Iowa
+Fairfield;Iowa
+Fort Dodge;Iowa
+Iowa City;Iowa
+Keokuk;Iowa
+Mount Pleasant;Iowa
+Sioux City;Iowa
+Waterloo;Iowa
+Abilene;Kansas
+Coffeyville;Kansas
+Hutchinson;Kansas
+Kansas City;Kansas
+Lawrence;Kansas
+Leavenworth;Kansas
+Newton;Kansas
+Pittsburg;Kansas
+Salina;Kansas
+Topeka;Kansas
+Wichita;Kansas
+Ashland;Kentucky
+Berea;Kentucky
+Bowling Green;Kentucky
+Lexington;Kentucky
+Louisville;Kentucky
+Paducah;Kentucky
+Paris;Kentucky
+Alexandria;Louisiana
+Baton Rouge;Louisiana
+Lake Charles;Louisiana
+Monroe;Louisiana
+Morgan City;Louisiana
+New Orleans;Louisiana
+Opelousas;Louisiana
+Shreveport;Louisiana
+Bangor;Maine
+Portland;Maine
+Waterville;Maine
+Baltimore;Maryland
+Easton;Maryland
+Elkton;Maryland
+Hagerstown;Maryland
+Laurel;Maryland
+Salisbury;Maryland
+Silver Spring;Maryland
+Framingham;Massachusetts
+Pittsfield;Massachusetts
+Worcester;Massachusetts
+Ann Arbor;Michigan
+Battle Creek;Michigan
+Benton Harbor;Michigan
+Detroit;Michigan
+East Lansing;Michigan
+Flint;Michigan
+Grand Rapids;Michigan
+Jackson;Michigan
+Kalamazoo;Michigan
+Brainerd;Minnesota
+Crookston;Minnesota
+Duluth;Minnesota
+Little Falls;Minnesota
+Minneapolis;Minnesota
+Moorhead;Minnesota
+Pipestone;Minnesota
+Rochester;Minnesota
+Saint Paul;Minnesota
+Biloxi;Mississippi
+Clarksdale;Mississippi
+Columbia;Mississippi
+Greenville;Mississippi
+Meridian;Mississippi
+Natchez;Mississippi
+Port Gibson;Mississippi
+Tupelo;Mississippi
+Vicksburg;Mississippi
+Fulton;Missouri
+Hannibal;Missouri
+Jefferson City;Missouri
+Joplin;Missouri
+Saint Joseph;Missouri
+Saint Louis;Missouri
+Warrensburg;Missouri
+Billings;Montana
+Butte;Montana
+Dillon;Montana
+Glendive;Montana
+Great Falls;Montana
+Helena;Montana
+Kalispell;Montana
+Miles City;Montana
+Missoula;Montana
+Fremont;Nebraska
+Grand Island;Nebraska
+Kearney;Nebraska
+Lincoln;Nebraska
+Norfolk;Nebraska
+North Platte;Nebraska
+Omaha;Nebraska
+Boulder City;Nevada
+Elko;Nevada
+Fallon;Nevada
+Las Vegas;Nevada
+Reno/Sparks;Nevada
+Winnemucca;Nevada
+Concord;New Hampshire
+Hanover;New Hampshire
+Keene;New Hampshire
+Manchester;New Hampshire
+Portsmouth;New Hampshire
+Atlantic City;New Jersey
+Camden;New Jersey
+New Brunswick;New Jersey
+Newark;New Jersey
+Ridgewood;New Jersey
+Alamogordo;New Mexico
+Albuquerque;New Mexico
+Carlsbad;New Mexico
+Clovis;New Mexico
+Deming;New Mexico
+Gallup;New Mexico
+Las Cruces;New Mexico
+Raton;New Mexico
+Roswell;New Mexico
+Tucumcari;New Mexico
+Batavia;New York
+Binghamton;New York
+Buffalo;New York
+Cortland;New York
+Hempstead;New York
+Ithaca;New York
+New York ;New York
+Niagara Falls;New York
+Olean;New York
+Plattsburgh;New York
+Schenectady;New York
+Syracuse;New York
+Utica;New York
+White Plains;New York
+Asheboro;North Carolina
+Charlotte;North Carolina
+Durham;North Carolina
+Edenton;North Carolina
+Elizabeth City;North Carolina
+Gastonia;North Carolina
+Goldsboro;North Carolina
+Greensboro;North Carolina
+Henderson;North Carolina
+Hickory;North Carolina
+High Point;North Carolina
+Kinston;North Carolina
+Lumberton;North Carolina
+Raleigh;North Carolina
+Rocky Mount;North Carolina
+Shelby;North Carolina
+Washington;North Carolina
+Wilmington;North Carolina
+Wilson;North Carolina
+Winston-Salem;North Carolina
+Bismarck;North Dakota
+Fargo;North Dakota
+Grand Forks;North Dakota
+Jamestown;North Dakota
+Valley City;North Dakota
+Akron;Ohio
+Canton;Ohio
+Chillicothe;Ohio
+Cincinnati;Ohio
+Cleveland;Ohio
+Dayton;Ohio
+Lima;Ohio
+Mansfield;Ohio
+Martinsburg;Ohio
+Mount Vernon;Ohio
+New Philadelphia;Ohio
+Sandusky;Ohio
+Toledo;Ohio
+Wooster;Ohio
+Youngstown;Ohio
+Zanesville;Ohio
+Ardmore;Oklahoma
+Chickasha;Oklahoma
+Durant;Oklahoma
+El Reno;Oklahoma
+Lawton;Oklahoma
+McAlester;Oklahoma
+Norman;Oklahoma
+Oklahoma City;Oklahoma
+Perry;Oklahoma
+Sand Springs;Oklahoma
+Tulsa;Oklahoma
+Baker City;Oregon
+Beaverton;Oregon
+Bend;Oregon
+Burns;Oregon
+Coos Bay;Oregon
+Corvallis;Oregon
+Eugene;Oregon
+Grants Pass;Oregon
+Hillsboro;Oregon
+Hood River;Oregon
+Klamath Falls;Oregon
+La Grande;Oregon
+Medford;Oregon
+Ontario;Oregon
+Pendleton;Oregon
+Redmond;Oregon
+Roseburg;Oregon
+Salem;Oregon
+The Dalles;Oregon
+Tillamook;Oregon
+Allentown;Pennsylvania
+Altoona;Pennsylvania
+Bloomsburg;Pennsylvania
+Bradford;Pennsylvania
+Erie;Pennsylvania
+Harrisburg;Pennsylvania
+Hazleton;Pennsylvania
+Indiana;Pennsylvania
+Jim Thorpe;Pennsylvania
+Johnstown;Pennsylvania
+Lewistown;Pennsylvania
+Lock Haven;Pennsylvania
+Meadville;Pennsylvania
+Monroeville;Pennsylvania
+New Castle;Pennsylvania
+Norristown;Pennsylvania
+Philadelphia;Pennsylvania
+Pittsburgh;Pennsylvania
+Pottsville;Pennsylvania
+Scranton;Pennsylvania
+Shamokin;Pennsylvania
+State College;Pennsylvania
+Stroudsburg;Pennsylvania
+Sunbury;Pennsylvania
+Wilkes-Barre;Pennsylvania
+Williamsport;Pennsylvania
+York;Pennsylvania
+Providence;Rhode Island
+Aiken;South Carolina
+Anderson;South Carolina
+Florence;South Carolina
+Myrtle Beach;South Carolina
+North Charleston;South Carolina
+Orangeburg;South Carolina
+Spartanburg;South Carolina
+Sumter;South Carolina
+Aberdeen;South Dakota
+Brookings;South Dakota
+Huron;South Dakota
+Mitchell;South Dakota
+Mobridge;South Dakota
+Pierre;South Dakota
+Rapid City;South Dakota
+Sioux Falls;South Dakota
+Spearfish;South Dakota
+Vermillion;South Dakota
+Watertown;South Dakota
+Chattanooga;Tennessee
+Clarksville;Tennessee
+Cookeville;Tennessee
+Greeneville;Tennessee
+Knoxville;Tennessee
+Memphis;Tennessee
+Murfreesboro;Tennessee
+Nashville;Tennessee
+Alpine;Texas
+Amarillo;Texas
+Austin;Texas
+Baytown;Texas
+Beaumont;Texas
+Big Spring;Texas
+Brownsville;Texas
+Bryan;Texas
+Dallas;Texas
+Del Rio;Texas
+Eagle Pass;Texas
+Edinburg;Texas
+El Paso;Texas
+Fort Worth;Texas
+Harlingen;Texas
+Houston;Texas
+Huntsville;Texas
+Kilgore;Texas
+Kingsville;Texas
+Laredo;Texas
+Longview;Texas
+Lubbock;Texas
+Lufkin;Texas
+Marshall;Texas
+McAllen;Texas
+McKinney;Texas
+Midland;Texas
+Nacogdoches;Texas
+Orange;Texas
+Pecos;Texas
+Plainview;Texas
+Plano;Texas
+Port Arthur;Texas
+Port Lavaca;Texas
+San Angelo;Texas
+San Antonio;Texas
+San Marcos;Texas
+Sherman;Texas
+Sweetwater;Texas
+Temple;Texas
+Texarkana;Texas
+Tyler;Texas
+Uvalde;Texas
+Victoria;Texas
+Waco;Texas
+Wichita Falls;Texas
+Brigham City;Utah
+Cedar City;Utah
+Fillmore;Utah
+Green River;Utah
+Heber City;Utah
+Logan;Utah
+Moab;Utah
+Monticello;Utah
+Nephi;Utah
+Ogden;Utah
+Park City;Utah
+Price;Utah
+Provo;Utah
+Salt Lake City;Utah
+Springdale;Utah
+Vernal;Utah
+Bellows Falls;Vermont
+Bennington;Vermont
+Burlington;Vermont
+Middlebury;Vermont
+Montpelier;Vermont
+Rutland;Vermont
+Charlottesville;Virginia
+Fredericksburg;Virginia
+Hampton;Virginia
+Lynchburg;Virginia
+Petersburg;Virginia
+Roanoke;Virginia
+Virginia Beach;Virginia
+Williamsburg;Virginia
+Bellevue;Washington
+Bellingham;Washington
+Centralia;Washington
+Ellensburg;Washington
+Everett;Washington
+Kelso;Washington
+Moses Lake;Washington
+Olympia;Washington
+Pasco;Washington
+Port Angeles;Washington
+Pullman;Washington
+Seattle;Washington
+Spokane;Washington
+Tacoma;Washington
+Walla Walla;Washington
+Wenatchee;Washington
+Yakima;Washington
+Beckley;West Virginia
+Bluefield;West Virginia
+Charleston;West Virginia
+Fairmont;West Virginia
+Huntington;West Virginia
+Morgantown;West Virginia
+Parkersburg;West Virginia
+Wheeling;West Virginia
+Eau Claire;Wisconsin
+Green Bay;Wisconsin
+La Crosse;Wisconsin
+Madison;Wisconsin
+Manitowoc;Wisconsin
+Milwaukee;Wisconsin
+Sheboygan;Wisconsin
+Superior;Wisconsin
+Waukesha;Wisconsin
+Wisconsin Dells;Wisconsin
+Casper;Wyoming
+Cheyenne;Wyoming
+Cody;Wyoming
+Douglas;Wyoming
+Evanston;Wyoming
+Gillette;Wyoming
+Laramie;Wyoming
+Rawlins;Wyoming
+Rock Springs;Wyoming
+Sheridan;Wyoming
+Thermopolis;Wyoming
+Worland;Wyoming
