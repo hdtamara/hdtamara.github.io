@@ -46,13 +46,13 @@ if (!storage) {
 
 var voices = [];
 
-if (!window.location.pathname.match("main.html") && !storage.voice.length) {
+if (!window.location.pathname.match("index.html") && !storage.voice.length) {
   goBack()
 }
 
 window.speechSynthesis.onvoiceschanged = function() {
   voices = window.speechSynthesis.getVoices();
-  if (window.location.pathname.match("main.html")) {
+  if (window.location.pathname.match("index.html")) {
     onLanguageSelected(initialLanguageSelected)
   }
 };
@@ -113,6 +113,7 @@ function onCitySelected({target}){
   let city = citySelect.value
   let randomIndex = Math.floor(Math.random() * cities.length);
   let randomElement = cities[randomIndex];
+  let cityStr = city.split('').join('-');
   sentence = `Leaving from ${city}, ${state}, going to ${randomElement.city}, ${randomElement.state}`
   textSelect.innerHTML =  sentence
   onTextSelected(sentence)

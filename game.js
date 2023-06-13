@@ -93,6 +93,7 @@ function onSubmit() {
         // const {text, voice, language, velocity} = storage
       // Obtener una referencia al objeto SpeechSynthesis
         let text = setencesList.innerHTML
+        text = text.replace(/<br>/g,'')
         const synthesis = window.speechSynthesis;
 
       // Crear un objeto SpeechSynthesisUtterance con el texto a convertir a voz
