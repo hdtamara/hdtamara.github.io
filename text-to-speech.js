@@ -46,9 +46,9 @@ if (!storage) {
 
 var voices = [];
 
-if (!window.location.pathname.match("index.html") && !storage.voice.length) {
-  goBack()
-}
+// if (!window.location.pathname.match("index.html") && !storage.voice.length) {
+//   goBack()
+// }
 
 window.speechSynthesis.onvoiceschanged = function() {
   voices = window.speechSynthesis.getVoices();
